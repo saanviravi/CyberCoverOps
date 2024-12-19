@@ -1,4 +1,4 @@
-# Unity Cipher Game
+# CyberCoverOps
 
 A Unity-based project combining interactive gameplay and educational cryptography concepts. This project demonstrates the implementation of Caesar and Playfair cipher encryption techniques in Unity, along with basic 3D gameplay mechanics.
 
